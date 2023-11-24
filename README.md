@@ -1,2 +1,2 @@
 # blenderomacs
-An add-on for blender to read gromacs trajectory file.
+An add-on for blender to read GROMACS trajectory file.
